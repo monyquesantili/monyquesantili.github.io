@@ -27,6 +27,11 @@
 		line-height: 1;
 	}
 
+	@font-face {
+		font-family: clickBeleza;
+		src: url("../fonts/Hickory%20Jack.ttf");
+	}
+
 	ol, ul {
 		list-style: none;
 	}
